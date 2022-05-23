@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+
+
+  $border-radius: 1.5rem;
+  $primary:       #03c903 ;
+  $input-bg:      rgb(71, 71, 71);
+
+
+  //PENDIENTE => // PUT ADVERTISEMENT FOR UNDONE TASKTS
+  
+
+
+
+
+  
+
+
+  // Include any default variable overrides here (though functions won't be available)
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Then add additional custom code here
